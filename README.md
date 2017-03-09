@@ -2,7 +2,7 @@
 Sublime Text Editor 3 —— front-end developer's snippets
 ==========================================
 前端开发工程师常用JS片段
-## 片段详情
+## 片段详情test
 ### [jsfile]初始化js文件
 `
 (function(window){
