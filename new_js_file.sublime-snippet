@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+(function(${1:window}){
+	${2://body}
+})(${1:window})
+]]></content>
+    <tabTrigger>jsfile</tabTrigger>
+    <scope>source.js</scope>
+    <description>console.log</description>
+</snippet>
